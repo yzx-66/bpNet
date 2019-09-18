@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1568187814 source:c:\excs\codeblocks\bpnet\main.cpp
+	"BpNet.h"
+	"Util.h"
+
+1568185635 c:\excs\codeblocks\bpnet\include\bpnet.h
+	<iostream>
+	<cmath>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1568185635 source:c:\excs\codeblocks\bpnet\src\bpnet.cpp
+	"BpNet.h"
+
+1567762575 c:\excs\codeblocks\bpnet\include\util.h
+	<vector>
+
+1567762575 source:c:\excs\codeblocks\bpnet\src\util.cpp
+	"Util.h"
+	<string>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<vector>
+
